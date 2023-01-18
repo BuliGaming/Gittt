@@ -1,2 +1,2 @@
 # Gittt
-Opis
+READ ME jest posiadane
